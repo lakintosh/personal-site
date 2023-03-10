@@ -1,0 +1,20 @@
+body {
+  font-family: 'Sono', sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+hr {
+  border-top: 2px solid #000;
+  width: 60%;
+}
+
+.projects {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 50px;
+}
